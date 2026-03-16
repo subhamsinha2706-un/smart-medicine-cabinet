@@ -82,6 +82,21 @@ Smart-Medicine-Cabinet
 • Cloud-based medicine inventory system  
 
 ---
+## Project Prototype
+
+![Prototype](Prototype.png)
+
+## Block Diagram
+
+![Block Diagram](Block_Diagram.png)
+
+## Flowchart
+
+![Flowchart](Flowchart.png)
+
+## Internal Circuit
+
+![Internal Circuit](internal_circuit.jpg)
 
 ## Author
 
